@@ -239,9 +239,7 @@ class DataPrepper:
        
         response = self.opensearch.search(body=log_query, index=self.index_name)
         hits = response["hits"]["hits"]
-        # if len(hits) == 0:
-        #     return None
-            
+
         feature_results = []
         for hit in hits:
             feature_map = {
