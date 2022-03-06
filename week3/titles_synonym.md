@@ -228,13 +228,13 @@ ds 0.767014
 wii 0.759658
 
 Query word? ps2
-360 0.986526
-xbox 0.985397
-gamecub 0.98067
-edit 0.975345
-nintendo 0.974769
-advanc 0.972366
-boy 0.969445
-time 0.96332
-window 0.961703
-playstat 0.960192
+guid 0.929822
+gamecub 0.886685
+playstat 0.877368
+psp 0.85569
+xbox 0.854212
+360 0.844828
+ds 0.802528
+of 0.80099
+wii 0.786269
+game 0.762098
